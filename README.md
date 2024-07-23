@@ -27,5 +27,3 @@ Você pode visualizar a aplicação em funcionamento através do seguinte link:
 
 Este projeto foi desenvolvido por Jamile Sales, aluna do curso de Análise e Desenvolvimento de Sistemas da Unifael, para fins de avaliação.
 
-https://jamilesales127.github.io/cardapio-restaurante/
-
