@@ -1,0 +1,66 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+
+  h1, h2 {
+    color: #444;
+  }
+  
+  .menu {
+    max-width: 600px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .categoria {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+  }
+  
+  .item:hover {
+    background-color: #f9f9f9;
+  }
+  
+  .botao {
+    background-color: #5cb85c;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .botao:hover {
+    background-color: #4cae4c;
+  }
+
+footer {
+    background-color: #f8f9fa; /* Cor de fundo do rodapé */
+    padding: 20px; /* Espaçamento interno do rodapé */
+    text-align: center; /* Alinhamento do texto */
+    color: #6c757d; /* Cor do texto */
+    font-size: 14px; /* Tamanho da fonte */
+    position: fixed; /* Fixa o rodapé na parte inferior da página */
+    left: 0; /* Alinha o rodapé à esquerda */
+    bottom: 0; /* Alinha o rodapé na parte inferior */
+    width: 100%; /* Largura do rodapé */
+}
+
+footer p {
+    margin: 0; /* Remove a margem do parágrafo */
+}
