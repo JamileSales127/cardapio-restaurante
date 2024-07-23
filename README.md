@@ -17,7 +17,15 @@ Este projeto foi desenvolvido como parte das avaliações do curso de Análise e
 - **CSS**: Para estilização da página.
 - **JavaScript**: Para a interação e manipulação dos dados do cardápio e carrinho de compras.
 
+## Link de acesso ao cardápio
+
+Você pode visualizar a aplicação em funcionamento através do seguinte link:
+
+[Cardápio Restaurante](https://jamilesales127.github.io/cardapio-restaurante/)
+
 ## Desenvolvedor
 
 Este projeto foi desenvolvido por Jamile Sales, aluna do curso de Análise e Desenvolvimento de Sistemas da Unifael, para fins de avaliação.
+
+https://jamilesales127.github.io/cardapio-restaurante/
 
