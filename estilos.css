@@ -50,17 +50,17 @@ body {
   }
 
 footer {
-    background-color: #f8f9fa; /* Cor de fundo do rodapé */
-    padding: 20px; /* Espaçamento interno do rodapé */
-    text-align: center; /* Alinhamento do texto */
-    color: #6c757d; /* Cor do texto */
-    font-size: 14px; /* Tamanho da fonte */
-    position: fixed; /* Fixa o rodapé na parte inferior da página */
-    left: 0; /* Alinha o rodapé à esquerda */
-    bottom: 0; /* Alinha o rodapé na parte inferior */
-    width: 100%; /* Largura do rodapé */
+    background-color: #f8f9fa; 
+    padding: 20px; 
+    text-align: center; 
+    color: #6c757d; 
+    font-size: 14px; 
+    position: fixed;
+    left: 0; 
+    bottom: 0; 
+    width: 100%; 
 }
 
 footer p {
-    margin: 0; /* Remove a margem do parágrafo */
+    margin: 0; 
 }
